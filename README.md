@@ -34,7 +34,7 @@ This program aims at performing the task of classifying three different species 
  
 
 # CLL Model
-This is a program which generates a funny and satiating dinosaur name with an initial start seed sentence and temperature value.
+This is a program which generates a funny and satiating dinosaur name with an initial start seed sentence and a temperature value.
 
 _Code_ [CLL Model](./Character_Level_Language_Model)
 
