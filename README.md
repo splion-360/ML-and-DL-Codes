@@ -32,9 +32,6 @@ This program aims at performing the task of classifying three different species 
   <img width="460" height="300" src= "./Iris_Classification/Iris.jpg">
  </p>
  
- 
- #### Check the master branch for DL Codes
-
 
 # CLL Model
 This is a program which generates a funny and satiating dinosaur name with an initial start seed sentence and temperature value.
