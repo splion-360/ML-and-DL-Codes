@@ -9,7 +9,7 @@
 * [Character Level Language Model (CLL)](#cll-model)
 
 
-# Emotion Detection
+# Emotion Detection and Arduino
 <p align = "center">
  <img width="500" height="320" src= "./Emotion_detection_arduino/Emotion.PNG">
  </p>
