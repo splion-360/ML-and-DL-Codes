@@ -1,7 +1,7 @@
 # ML and DL codes
 
 ## Deep Learning Codes
-* [Emotion Detection](#emotion-detection)
+* [Emotion Detection and Arduino](#emotion-detection)
 * [Sign Language Detection](#sign-language-detection)
 
 ## Simple Classification using ANN
