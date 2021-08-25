@@ -46,7 +46,7 @@ _Code_ [CLL Model](./Character_Level_Language_Model)
 * Clone this repository into your local machine
 * Install the [required](./Character_Level_Language_Model/requirements.txt) packages using the command `pip install -r requirements.txt`
 * Make sure that the model is downloaded into the same directory where it is cloned
-* Run the [dinosaur](./Character_Level_Language_Model/dinosaur.py) script in order to enter the interactive command line mode
+* Run the [dinosaur](./Character_Level_Language_Model/dinosaur.py) script using the code `python dinosaur.py` in order to enter the interactive command line mode
 
  ### A sample output from the model 
 
