@@ -42,6 +42,12 @@ _Code_ [CLL Model](./Character_Level_Language_Model)
   <img width="460" height="300" src= "./Character_Level_Language_Model/dino.jpg">
  </p>
  
+### Setup and Usage:
+* Clone this repository into your local machine
+* Install the required packages using the command `pip install -r requirements.txt`
+* Make sure that the model is downloaded into the same directory where it is cloned
+* Run the [dinosaur](./Character_Level_Language_Model/dinosaur.py) script in order to enter the interactive command line mode
+
  ### A sample output from the model 
 
  <p align = "center">
