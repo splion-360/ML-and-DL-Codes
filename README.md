@@ -42,3 +42,10 @@ _Code_ [CLL Model](./Character_Level_Language_Model)
   <img width="460" height="300" src= "./Character_Level_Language_Model/dino.jpg">
  </p>
  
+ ### A sample output from the model 
+
+ <p align = "center">
+  <img width="460" height="300" src= "./Character_Level_Language_Model/Dinosaur_model.png">
+ </p>
+ 
+ #### Note: Download the trained model by following the [kaggle](https://www.kaggle.com/suryaprakash0112358/dinosaur-model) link
