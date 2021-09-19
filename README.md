@@ -1,10 +1,11 @@
 # ML and DL codes
 
 ## Deep Learning Codes
-* [Emotion Detection and Arduino](#emotion-detection)
+* [Emotion Detection and Arduino](#emotion-detection-and-arduino)
 * [Sign Language Detection](#sign-language-detection)
+* [Gesture Controlled LED](#gesture-control)
 
-## Simple Classification using ANN
+## Simple Classification using NN
 * [Iris Classification](#iris-classification)
 * [Character Level Language Model (CLL)](#cll-model)
 
@@ -14,12 +15,19 @@
  <img width="500" height="320" src= "./Emotion_detection_arduino/Emotion.PNG">
  </p>
  
-This program makes use of the [FER 2013 dataset](https://www.kaggle.com/msambare/fer2013) for training and finally projects the output on a classic 16 X 2 character LCD intergrated with Arduino through PySerial library. [Click](https://create.arduino.cc/projecthub/ansh2919/serial-communication-between-python-and-arduino-e7cce0) for more info. PySerial enables a serial communication between Python IDE and Arduino Uno's serial buffer using the conventional serial port in desktop.
+This program makes use of the [FER 2013 dataset](https://www.kaggle.com/msambare/fer2013) for training and finally projects the output on a classic 16 X 2 character LCD intergrated with Arduino through PyFirmata library. [Click](https://pypi.org/project/pyFirmata/) for more info.
 __*Code is contained here*__ [Emotion Detection](./Emotion_detection_arduino)
 
 # Sign Language Detection
 This program uses the  [MNIST Sign Language](https://www.kaggle.com/datamunge/sign-language-mnist) Dataset. Individual training and test case represents a label (0-25) as a one to one map for each alphabetic letter A-Z .The training data (__27,455 cases__) and test data (__7172 cases__) are approximately half the size of the standard MNIST but otherwise similar with a header row of label, pixel1,pixel2.....pixel784 which represent a single 28x28 pixel image with grayscale values between 0-255.The provided data is of csv format
 __*Code is contained here*__ [Sign Language Detection](./Sign_language_detection)
+
+# Gesture Control
+
+Index and thumb finger controlled LED using Arduino and Pyserial library
+
+_**Code is contained here**_  [Gesture Control](./GestureControl)
+
 
 
 
