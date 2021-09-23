@@ -17,6 +17,7 @@
  
 This program makes use of the [FER 2013 dataset](https://www.kaggle.com/msambare/fer2013) for training and finally projects the output on a classic 16 X 2 character LCD intergrated with Arduino through PyFirmata library. [Click](https://pypi.org/project/pyFirmata/) for more info.
 __*Code is contained here*__ [Emotion Detection](./Emotion_detection_arduino)
+
 Check out this [video](https://youtu.be/5jIc0SWo5Kg)
 
 # Sign Language Detection
