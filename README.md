@@ -18,7 +18,7 @@
 This program makes use of the [FER 2013 dataset](https://www.kaggle.com/msambare/fer2013) for training and finally projects the output on a classic 16 X 2 character LCD intergrated with Arduino through PyFirmata library. [Click](https://pypi.org/project/pyFirmata/) for more info.
 __*Code is contained here*__ [Emotion Detection](./Emotion_detection_arduino)
 
-Check out this [video](https://youtu.be/5jIc0SWo5Kg)
+
 
 # Sign Language Detection
 This program uses the  [MNIST Sign Language](https://www.kaggle.com/datamunge/sign-language-mnist) Dataset. Individual training and test case represents a label (0-25) as a one to one map for each alphabetic letter A-Z .The training data (__27,455 cases__) and test data (__7172 cases__) are approximately half the size of the standard MNIST but otherwise similar with a header row of label, pixel1,pixel2.....pixel784 which represent a single 28x28 pixel image with grayscale values between 0-255.The provided data is of csv format
@@ -30,6 +30,7 @@ Index and thumb finger controlled LED using Arduino and Pyserial library
 
 _**Code is contained here**_  [Gesture Control](./GestureControl)
 
+Check out this [video](https://youtu.be/5jIc0SWo5Kg)
 
 
 
